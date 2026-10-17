@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This is a fork of the original BitChord client. All credits to them.
+
 <div align="center">
 
 <br/>
